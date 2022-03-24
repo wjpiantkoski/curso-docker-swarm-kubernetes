@@ -2,6 +2,8 @@
 
 Aprenda Docker do básico ao avançado e ainda orquestração com Docker Swarm e Kubernetes!
 
+[Repositório do autor](https://github.com/matheusbattisti/curso_docker)
+
 ## Descrição
 Neste curso você aprenderá de forma teórica e prática as funcionalidades de Docker, criando projetos e com diversos tipos de ambientes (PHP, JavaScript, Python e outros)
 
