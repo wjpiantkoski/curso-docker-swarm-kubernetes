@@ -32,3 +32,7 @@ A vantagem entre outros orquestradores é que seus comandos são muito semelhant
 
 **Task:** Comandos executados nos Nodes.
 
+***
+
+## Recuperar token do manager
+`docker swarm join-token manager`
